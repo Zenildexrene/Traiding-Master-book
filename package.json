@@ -1,0 +1,7 @@
+{
+  "name": "manuel-trading-vendeur",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": { "pdf-lib": "^1.17.1" },
+  "engines": { "node": ">=18" }
+}
